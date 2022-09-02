@@ -1,0 +1,40 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  parcare arhi_parcare
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2421 kB (elbread=1070 elab2=302 kernel=1049 sdf=0)
+# 6:35 PM, Thursday, May 26, 2022
+# Simulation has been initialized
+# Selected Top-Level: parcare (arhi_parcare)
+run 20 ns
+# KERNEL: stopped at time: 20 ns
+run 20 ns
+# KERNEL: stopped at time: 40 ns
+run 20 ns
+# KERNEL: stopped at time: 60 ns
+run 20 ns
+# KERNEL: stopped at time: 80 ns
+run 20 ns
+# KERNEL: stopped at time: 100 ns
+run 20 ns
+# KERNEL: stopped at time: 120 ns
+run 20 ns
+# KERNEL: stopped at time: 140 ns
+run 20 ns
+# KERNEL: stopped at time: 160 ns
+run 20 ns
+# KERNEL: stopped at time: 180 ns
+run 20 ns
+# KERNEL: stopped at time: 200 ns
+# Simulation has been stopped

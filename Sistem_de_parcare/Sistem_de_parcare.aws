@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+sistem_de_parcare=.\Sistem_de_parcare\Sistem_de_parcare.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+sistem_de_parcare=1

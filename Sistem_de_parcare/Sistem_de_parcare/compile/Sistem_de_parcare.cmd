@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\Sistem_de_parcare\library.cfg"  -j "c:\My_Designs\Sistem_de_parcare\Sistem_de_parcare\projlib.cfg"  -d "c:\My_Designs\Sistem_de_parcare\Sistem_de_parcare\compile\"  -work Sistem_de_parcare -dbg -e 100 "c:\My_Designs\Sistem_de_parcare\Sistem_de_parcare\src\parcare.vhd" 

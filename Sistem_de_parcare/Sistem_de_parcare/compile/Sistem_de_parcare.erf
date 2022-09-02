@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\Sistem_de_parcare\Sistem_de_parcare\src\parcare.vhd" 
+MESSAGE "Compile Entity "parcare"" 
+MESSAGE "Entity `parcare' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "arhi_parcare" of Entity "parcare"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

@@ -1,0 +1,41 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Sistem_de_parcare
+
+[Library]
+Sistem_de_parcare=.\Sistem_de_parcare.lib
+
+[$LibMap$]
+Sistem_de_parcare=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/parcare.vhd=-1
+/Waveform_Parcare.awf=-1
+
+[Files.Data]
+.\src\parcare.vhd=VHDL Source Code
+.\src\Waveform_Parcare.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=parcare|arhi_parcare|0        
+ShowHide=ShowTopLevel
+Selected=
